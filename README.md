@@ -5,6 +5,5 @@ why not have an automatic script to do this for you?
 
 
 
-Original: <a href="http://www.konfeldt.com/" style="color:#00a000">konfeldt.com</a>
 
 
