@@ -3,7 +3,7 @@
 
 ### Easy WordPress BackupSolution
 
-The provided PHP code is a script intended for creating backups of a MySQL database. It utilizes basic MySQL functions to retrieve table data, constructs SQL commands to recreate the database structure, and saves this information into a `.sql` file. Finally, it compresses the SQL file into a ZIP format.
+The PHP code is a script intended for creating backups of a MySQL database. It utilizes basic MySQL functions to retrieve table data, constructs SQL commands to recreate the database structure, and saves this information into a `.sql` file. Finally, it compresses the SQL file into a ZIP format.
 
 ### Breakdown of the Code:
 
